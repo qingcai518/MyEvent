@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  FriendVewController.h
 //  MyEvent
 //
 //  Created by user on 2016/01/18.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface FriendVewController : UIViewController
 
 @end
-
